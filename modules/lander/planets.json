@@ -1,0 +1,46 @@
+[
+	{
+		"name": "sun",
+		"gravity": 273.95
+	},
+	{
+		"name": "mercure",
+		"gravity": 3.70
+	},
+	{
+		"name": "venus",
+		"gravity": 8.87
+	},
+	{
+		"name": "earth",
+		"gravity": 9.81
+	},
+	{
+		"name": "moon",
+		"gravity": 1.62
+	},
+	{
+		"name": "mars",
+		"gravity": 3.71
+	},
+	{
+		"name": "jupiter",
+		"gravity": 24.79
+	},
+	{
+		"name": "saturn",
+		"gravity": 10.44
+	},
+	{
+		"name": "uranus",
+		"gravity": 8.87
+	},
+	{
+		"name": "neptune",
+		"gravity": 11.15
+	},
+	{
+		"name": "titan",
+		"gravity": 1.352
+	}
+]
